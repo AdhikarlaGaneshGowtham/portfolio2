@@ -25,7 +25,7 @@ import {
   Users,
 } from "lucide-react";
 import { Lightbox } from "@/components/Lightbox";
-import profileImg from "@/assets/profile.jpg";
+import profileImg from "@/assets/profile2.jpeg";
 
 export const Route = createFileRoute("/")({
   head: () => ({
